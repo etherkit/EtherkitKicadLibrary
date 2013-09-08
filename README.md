@@ -1,4 +1,0 @@
-EtherkitKicadLibrary
-====================
-
-Etherkit Kicad Library
