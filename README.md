@@ -9,7 +9,7 @@ The library was converted to the new *pretty* format. To use it in your KiCad in
       (lib
         (name EtherkitKicadLibrary)
         (type Github)
-        (uri https://github.com/etherkit/EtherkitKicadLibrary/)
+        (uri https://github.com/etherkit/EtherkitKicadLibrary)
         (options "")
         (descr "This is the master library for all of the Etherkit products created with KiCad.")
       )
