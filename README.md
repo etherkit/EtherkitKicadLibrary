@@ -1,4 +1,4 @@
-Etherkit Kicad Library
+Etherkit KiCad Library
 ======================
 
 This is the master library for all of the Etherkit products created with KiCad.
