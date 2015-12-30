@@ -1,9 +1,9 @@
-(module SOT23-2N7002 (layer F.Cu)
+(module SOT23-2N7002 (layer F.Cu) (tedit 562D55A3)
   (descr SOT23)
   (tags "CMS SOT")
   (attr smd)
   (fp_text reference Q9 (at 0 -2.35) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.12954)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value IRLML9301 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 0.762 0.762) (thickness 0.12954)))

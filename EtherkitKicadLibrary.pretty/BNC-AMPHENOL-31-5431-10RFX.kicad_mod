@@ -1,6 +1,6 @@
-(module BNC-AMPHENOL-31-5431-10RFX (layer F.Cu)
+(module BNC-AMPHENOL-31-5431-10RFX (layer F.Cu) (tedit 56819BFC)
   (fp_text reference J? (at 0 -16.10106) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1.2 1) (thickness 0.2)))
   )
   (fp_text value VAL** (at 0 -16.05026) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
@@ -10,6 +10,6 @@
   (fp_line (start -7.2009 -14.09954) (end -7.2009 0) (layer F.SilkS) (width 0.15))
   (pad "" thru_hole circle (at 5.08 -7.86892) (size 2.99974 2.99974) (drill 1.99898) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -5.08 -7.86892) (size 2.99974 2.99974) (drill 1.99898) (layers *.Cu *.Mask F.SilkS))
-  (pad 1 thru_hole circle (at 0 -12.94892) (size 1.50114 1.50114) (drill 0.889) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 2.54 -12.94892) (size 1.50114 1.50114) (drill 0.889) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 0 -12.94892) (size 1.7 1.7) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 2.54 -12.94892) (size 1.7 1.7) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
 )

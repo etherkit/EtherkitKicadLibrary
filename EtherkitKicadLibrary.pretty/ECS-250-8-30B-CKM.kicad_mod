@@ -1,6 +1,6 @@
-(module ECS-250-8-30B-CKM (layer F.Cu)
+(module ECS-250-8-30B-CKM (layer F.Cu) (tedit 566CA75C)
   (fp_text reference ECS-250-8-30B-CKM (at 0.025 4.5) (layer F.SilkS)
-    (effects (font (size 1 0.8) (thickness 0.15)))
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0.075 -3.825) (layer F.SilkS) hide
     (effects (font (size 1 0.8) (thickness 0.15)))
