@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 24AA64T
+D I2C Serial EEPROM, 64Kb, SOT-23
+K I2C Serial EEPROM
+$ENDCMP
+#
 $CMP AD8310
 D AD8310
 K AD8310
@@ -23,6 +28,18 @@ $ENDCMP
 $CMP LPFModule
 D Etherkit LPF Module
 K low-pass, filter
+$ENDCMP
+#
+$CMP SN74LVC1G17
+D Single Schmitt Trigger
+$ENDCMP
+#
+$CMP ScrewTerminal
+K terminal
+$ENDCMP
+#
+$CMP TLV61046A
+D DC-DC Boost Converter
 $ENDCMP
 #
 $CMP USB_OTG

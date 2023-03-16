@@ -1,0 +1,16 @@
+(module BREAKAWAY_TAB_3MM (layer F.Cu) (tedit 5F342BD0)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BREAKAWAY_TAB_3MM (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at -1 -1.2) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 -1.2) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 1 -1.2) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -1 1.2) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 1.2) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 1 1.2) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -3 0) (size 3 3) (drill 3) (layers *.Cu *.Mask Eco1.User))
+  (pad "" np_thru_hole circle (at 3 0) (size 3 3) (drill 3) (layers *.Cu *.Mask Eco1.User))
+)

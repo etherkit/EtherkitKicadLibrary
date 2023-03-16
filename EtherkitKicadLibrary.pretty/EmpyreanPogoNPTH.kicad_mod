@@ -1,0 +1,177 @@
+(module EmpyreanPogoNPTH (layer F.Cu) (tedit 5F398269)
+  (fp_text reference U? (at -7.2 -23.9) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value EmpyreanPogoNPTH (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -9.2 22.8) (end -9.2 -22.9) (layer F.SilkS) (width 0.15))
+  (fp_line (start 9.2 22.8) (end -9.2 22.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 9.2 -22.9) (end 9.2 22.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start -9.2 -22.9) (end 9.2 -22.9) (layer F.SilkS) (width 0.15))
+  (pad "" np_thru_hole custom (at -2.54 -21.25 270) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 0 -21.25 270) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 2.54 -21.25 270) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 -21.25 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 -18.71 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 2)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 -16.17 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 -13.63 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 -11.09 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 -8.55 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 -6.01 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 -3.47 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 -0.93 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 1.61 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 4.15 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 6.69 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 9.23 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 11.77 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at 7.6 14.31 180) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 14.31) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 11.77) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 9.23) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 6.69) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 4.15) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 1.61) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 -0.93) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 -3.47) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 -6.01) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 -8.55) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 2)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 -11.09) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 -13.63) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 -16.17) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 -18.71) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+  (pad "" np_thru_hole custom (at -7.6 -21.25) (size 1.4 1.4) (drill 1.4) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+    ))
+)
